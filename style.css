@@ -1,0 +1,74 @@
+
+
+body {
+    background-color: #aeaeae;
+}
+
+header{
+    background-color: #eaf1fa;
+    text-align: center;
+    
+}
+
+h1 {
+    font-size: 20px;
+    padding-top: 20px;
+    font-family : Arial, Helvetica, sans-serif;
+    font-weight :bold;
+}
+
+.age{
+    font-size: 14px;
+    font-family : Arial, Helvetica, sans-serif;
+    font-weight :700;
+
+}
+
+.specialite {
+    font-size: 14px;
+    font-family : Arial, Helvetica, sans-serif;
+    font-weight :600;
+}
+
+.adresse{
+    text-align: end;
+    font-size: 14px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    
+}
+
+
+a {
+    color: #ff1900;
+    font-family : Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: blue; /* ou utilisez #0000ff pour un bleu exact */
+}
+
+H2{
+    background-color: #eaf1fa;
+    padding-left: 5px;
+    font-size: 20px; 
+    font-weight: bold;
+    color: #2c4f9c;
+    font-family: Arial, sans-serif; /* Remplacez par la police de votre choix */
+    text-transform: uppercase; /* Assure que le texte est en majuscules */
+}
+
+.annee{
+    padding-left: 150px;
+    padding-right: 200px;
+    color: #ff1900;
+    font-weight: bold;
+}
+
+UL{
+    padding-left: 70px;
+}
+
+H3{
+    display:inline;
+}
